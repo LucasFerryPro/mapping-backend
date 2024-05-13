@@ -1,0 +1,32 @@
+# Application files
+cache/
+vapidKeys/
+torrents/
+tmp/
+
+# Node
+node_modules/
+
+# IDEs and editors
+.idea
+.vscode
+
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Yarn errors logs
+yarn-error.log
+
+# Build folder
+build/
+dist/
+
+# Env
+.env.local
+
+# Yarn v2
+.yarn
+.yarnrc.yml
+.yarnignore
+.pnp.*
